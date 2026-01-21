@@ -26,7 +26,7 @@ A modern, responsive To-Do List application built with **HTML, CSS, and Vanilla 
 
 ![To-Do List App Screenshot](image/App-Screenshot.png)
 
-##Live Demo
+## Live Demo
 https://loyiso04.github.io/To-Do-List-App/
 
 ## 📌 Author:
